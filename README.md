@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hii, I'm Dakota👋<br/>
 
-<!--
-**R31GNDEV/R31GNDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://discord.com/users/905272587674853376">
+  <img src="https://cdn.discordapp.com/attachments/1025324464851922945/1026508908740759553/image5.png" align="left" />
+</a>
 
-Here are some ideas to get you started:
+````zsh
+> help --info
+> 23 years old
+> Video game nerd & cheater.
+> Stolen from Brandon Saldan & Localdevice, but with zsh
+````
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````zsh
+> help --contact
+> discord: Kota#6900
+> twitter: R31GNonYou
+````
