@@ -1,7 +1,7 @@
 ### Hii, I'm Dakota👋<br/>
 
 <a href="https://discord.com/users/905272587674853376">
-  <img src="[https://cdn.discordapp.com/attachments/1025324464851922945/1026509688105340988/48-485903_alice-in-wonderland-mushroom-png-clip-art-royalty.jpg](https://media.discordapp.net/attachments/1025324464851922945/1026510510323155084/GIFs_5.gif)" align="left" />
+  <img src="https://media.discordapp.net/attachments/1025324464851922945/1026510510323155084/GIFs_5.gif" align="left" />
 </a>
 
 ````zsh
