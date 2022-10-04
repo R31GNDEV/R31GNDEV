@@ -8,7 +8,7 @@
 > help --info
 > 23 years old
 > Video game nerd & cheater.
-> Stolen from Brandon Saldan & Localdevice, but with zsh
+> Stolen from Brandon Saldan & Localdevice & whoever stole it also, but with zsh
 ````
 
 ````zsh
