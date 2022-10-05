@@ -7,7 +7,7 @@
 ````zsh
 > help --info
 > 23 years old
-> Video game nerd & cheater.
+> iOS Nerd.
 > Stolen from Brandon Saldan & Localdevice & whoever stole it also, but with zsh
 ````
 
