@@ -18,6 +18,7 @@
 - Configure AWS EC2 Environments for multiple types of bots
 - Adobe Photoshop & Lightroom
 - Very well-versed with Python3
+- iOS App/Theme Development
 
 ## 🔍 Currently Learning:
 - Objective C/Swift (iOS Tweak development via Theos)
@@ -31,4 +32,3 @@
 <a href="https://discord.com/users/905272587674853376">
   <img src="https://media.discordapp.net/attachments/1025324464851922945/1026510510323155084/GIFs_5.gif" align="left" />
 </a>
-````
