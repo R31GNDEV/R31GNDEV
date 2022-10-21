@@ -17,7 +17,6 @@
 - Had a Discord server with 400+ users related to a DayZ video game server I used to host through OVH.
 - Configure AWS EC2 Environments for multiple types of bots
 - Adobe Photoshop & Lightroom
-- Very well-versed with Python3
 - iOS App/Theme Development
 
 ## 🔍 Currently Learning:
