@@ -27,6 +27,7 @@
 -Discord: Kota#1337
 -Email: dakotalee04251@gmail.com
 -Twitter: https://twitter.com/iloveveryword
+-Discord Server: https://discord.gg/DbPmVtNfqW
 
 <a href="https://discord.com/users/905272587674853376">
   <img src="https://media.discordapp.net/attachments/1045839410903650394/1046704605326745680/XenRec.gif" align="left" />
