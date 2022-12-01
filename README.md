@@ -16,7 +16,7 @@
 - Built an iOS Jailbreak Repo
 - Had a Discord server with 400+ users related to a DayZ video game server I used to host through OVH.
 - Configure AWS EC2 Environments for multiple types of bots
-- Adobe Photoshop & Lightroom
+- Adobe Photoshop & After Effects
 - iOS App/Theme Development
 
 ## 🔍 Currently Learning:
@@ -24,7 +24,7 @@
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
 ## 🚀 How to reach me:
--Discord: Kota#6900
+-Discord: Kota#1337
 -Email: dakotalee04251@gmail.com
 -Twitter: https://twitter.com/iloveveryword
 
