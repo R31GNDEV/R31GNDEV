@@ -25,7 +25,7 @@
 
 ## 🚀 How to reach me:
 -Discord: Kota#1337
--Email: dakotalee04251@gmail.com
+-Email: kota@hackforums.net
 -Twitter: https://twitter.com/iloveveryword
 -Discord Server: https://discord.gg/DbPmVtNfqW
 
