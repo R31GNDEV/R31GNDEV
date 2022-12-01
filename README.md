@@ -29,5 +29,5 @@
 -Twitter: https://twitter.com/iloveveryword
 
 <a href="https://discord.com/users/905272587674853376">
-  <img src="https://media.discordapp.net/attachments/1025324464851922945/1026510510323155084/GIFs_5.gif" align="left" />
+  <img src="https://cdn.discordapp.com/attachments/1018279715825520670/1039450325997854720/Kota2.gif" align="left" />
 </a>
