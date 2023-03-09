@@ -17,5 +17,5 @@
 -Discord Server: https://discord.gg/torch
 
 <a href="https://discord.com/users/905272587674853376">
-  <img src="https://media.discordapp.net/attachments/1045839410903650394/1046704605326745680/XenRec.gif" align="left" />
+  <img src="[https://media.discordapp.net/attachments/1045839410903650394/1046704605326745680/XenRec.gif](https://media.discordapp.net/attachments/1062976714872999981/1082568978297258035/TorchMainLOGO.gif?width=546&height=546)" align="left" />
 </a>
