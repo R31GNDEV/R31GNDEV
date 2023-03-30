@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r31gndev&show_icons=true&theme=dracula" alt="Dakota's Github Stats">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=r31gndev&color=F4A4B5&style=flat" alt="Dakota's Github Profile Views" />
 </div>
