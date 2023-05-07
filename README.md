@@ -10,9 +10,3 @@
 -Discord: Kota#1337
 -Email: kota@hackforums.net
 -Twitter: https://twitter.com/kotahacks
--Discord Server: https://discord.gg/torch
-
-<a href="https://discord.com/users/905272587674853376">
-  <img src="https://media.discordapp.net/attachments/1062976714872999981/1082568978297258035/TorchMainLOGO.gif?width=546&height=546" align="center" />
-</a>
-
