@@ -5,8 +5,3 @@
 <br>
 
 👋 Hii, my name is Dakota, you can call me "Kota". I'm a learning software engineer who would someday like to specialize in [[redacted]]. I am very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
-
-## 🚀 How to reach me:
--Discord: Kota#1337
--Email: kota@hackforums.net
--Twitter: https://twitter.com/kotahacks
