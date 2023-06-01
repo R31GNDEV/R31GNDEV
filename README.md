@@ -20,7 +20,7 @@ e-mail     • dev@kota.gay
 website    • kota.gay | transrights.online | kotais.gay
 discord    • Kota#1337
 reddit     • u/L3X8
-steam      • [Kotaisgay](https://steamcommunity.com/id/kotaisgay/)
+steam      • Kotaisgay
 mastodon   • kota@tech.lgbt
 ```
 
