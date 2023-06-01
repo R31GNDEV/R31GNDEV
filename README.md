@@ -1,8 +1,32 @@
 <div align="center">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=r31gndev&color=F4A4B5&style=flat" alt="Dakota's Github Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=r31gndev&color=F4A4B5&style=flat" alt="Kota's Github Profile Views" />
 </div>
 <br>
+---
+
+```objc
+R31GNDEV@github: ~ $ whoami
+──────────────────────────────────────────────
+
+personal   • dakota lee / 24yo
+             female / Near Chicago, IL
+
+languages  • objective-c, html, css
+
+interests  • Mobile/Web UI Design, Hiking,
+             dacing/raves, Reverse Engineering
+
+e-mail     • dev@kota.gay
+website    • kota.gay | transrights.online | kotais.gay
+discord    • Kota#1337
+reddit     • u/L3X8
+steam      • [Kotaisgay](https://steamcommunity.com/id/kotaisgay/)
+mastodon   • kota@tech.lgbt
+```
+
+---
+
 <table>
     <tr>
         <th>
