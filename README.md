@@ -3,7 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=r31gndev&color=F4A4B5&style=flat" alt="Kota's Github Profile Views" />
 </div>
 <br>
----
 
 ```objc
 R31GNDEV@github: ~ $ whoami
