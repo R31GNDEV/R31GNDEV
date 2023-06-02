@@ -1,9 +1,3 @@
-<div align="center">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=r31gndev&color=F4A4B5&style=for-the-badge" alt="Kota's Github Profile Views" />
-</div>
-<br>
-
 ```objc
 R31GNDEV@github: ~ $ whoami
 ──────────────────────────────────────────────
@@ -37,3 +31,7 @@ mastodon   • kota@tech.lgbt
         </th>
     </tr>
 </table>
+<div align="center">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=r31gndev&color=F4A4B5&style=for-the-badge" alt="Kota's Github Profile Views" />
+</div>
