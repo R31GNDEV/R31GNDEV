@@ -23,7 +23,7 @@ mastodon   • kota@tech.lgbt
 <table>
     <tr>
         <th>
-            <img src="https://github-readme-stats.vercel.app/api?username=R31GNDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&text_color=F4A4B5&bg_color=000000&border_color=000000" alt="GitHub Statistics" />
+            <img src="https://github-readme-stats.vercel.app/api?username=R31GNDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&title_color=F4A4B5&text_color=F4A4B5&bg_color=000000&border_color=000000" alt="GitHub Statistics" />
             <br>
         </th>
         <th>
