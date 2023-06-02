@@ -27,7 +27,7 @@ mastodon   • kota@tech.lgbt
             <br>
         </th>
         <th>
-            <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=R31GNDEV&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" alt="Most Used Languages" />
+            <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=R31GNDEV&layout=compact&show_icons=true&title_color=F4A4B5&text_color=F4A4B5&bg_color=000000&hide_border=true&icon_color=000000&count_private=true" alt="Most Used Languages" />
         </th>
     </tr>
 </table>
