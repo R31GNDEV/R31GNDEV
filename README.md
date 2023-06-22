@@ -12,7 +12,7 @@ interests  • Mobile/Web UI Design, Hiking,
 
 e-mail     • dev@kota.gay
 website    • kota.gay | transrights.online | kotais.gay
-discord    • @1Kota
+discord    • @0gay
 reddit     • u/L3X8
 steam      • Kotaisgay
 mastodon   • kota@tech.lgbt
