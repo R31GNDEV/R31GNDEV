@@ -23,11 +23,11 @@ mastodon   • kota@tech.lgbt
 <table>
     <tr>
         <th>
-            <img src="https://github-readme-stats.vercel.app/api?username=R31GNDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&title_color=F4A4B5&text_color=f099ff&bg_color=ffffff&border_color=8df4f7&icon_color=000000" alt="GitHub Statistics" />
+            <img src="https://github-readme-stats.vercel.app/api?username=R31GNDEV&show_icons=true&count_private=true&include_all_commits=true&theme=dark&show_icons=true&layout=compact&title_color=F4A4B5&text_color=f099ff&bg_color=ffffff&border_color=8df4f7&icon_color=8df4f7" alt="GitHub Statistics" />
             <br>
         </th>
         <th>
-            <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=R31GNDEV&layout=compact&show_icons=true&title_color=F4A4B5&text_color=f099ff&bg_color=ffffff&hide_border=false&border_color=8df4f7&icon_color=000000&count_private=true" alt="Most Used Languages" />
+            <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=R31GNDEV&layout=compact&show_icons=true&title_color=F4A4B5&text_color=f099ff&bg_color=ffffff&border_color=8df4f7&icon_color=8df4f7&count_private=true" alt="Most Used Languages" />
         </th>
     </tr>
 </table>
