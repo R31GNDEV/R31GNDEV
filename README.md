@@ -7,8 +7,8 @@ personal   • dakota lee / 24yo
 
 languages  • objective-c, html, css
 
-interests  • Mobile/Web UI Design, Hiking,
-             dacing/raves, Reverse Engineering
+interests  • Mobile/Web Front-End UI Design, Hiking,
+             dacing/raves, Reverse Engineering, Content Creator for [redacted]
 
 e-mail     • dev@kota.gay
 website    • kota.gay | transrights.online | kotais.gay
