@@ -2,7 +2,7 @@
 R31GNDEV@github: ~ $ whoami
 ──────────────────────────────────────────────
 
-personal   • dakota lee / 24yo
+personal   • dakota / 24yo
              female / Near Chicago, IL
 
 languages  • objective-c, html, css
