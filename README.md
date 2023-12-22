@@ -5,7 +5,7 @@ R31GNDEV@github: ~ $ whoami
 personal   • dakota / 24yo
              female / Near Chicago, IL
 
-languages  • objective-c, html, css
+languages  • objective-c, html, scss/css, js
 
 interests  • Mobile/Web Front-End UI Design, Hiking,
              dacing/raves, Reverse Engineering, Content Creator for [redacted]
