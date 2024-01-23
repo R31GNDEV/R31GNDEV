@@ -2,8 +2,10 @@
 R31GNDEV@github: ~ $ whoami
 ──────────────────────────────────────────────
 
-personal   • dakota / 24yo
-             female / Near Chicago, IL
+alias'     • dakota, short nickname - kota, alyssa
+
+personal   • 24yo
+             trans-female / Near Chicago, IL
 
 languages  • objective-c, html, scss/css, js
 
@@ -11,8 +13,8 @@ interests  • Mobile/Web Front-End UI Design, Hiking,
              dacing/raves, Reverse Engineering, Content Creator for [redacted]
 
 e-mail     • dev@kota.gay
-website    • kota.gay | transrights.online
-discord    • @KotaHacks
+website    • kota.gay | transrights.online | alyssais.online
+discord    • @alyssabale
 reddit     • u/L3X8
 steam      • Kotaisgay
 mastodon   • kota@tech.lgbt
