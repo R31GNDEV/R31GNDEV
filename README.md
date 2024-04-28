@@ -4,7 +4,7 @@ R31GNDEV@github: ~ $ whoami
 
 alias'     • dakota, short nickname - kota, alyssa
 
-personal   • 24yo
+personal   • 25yo
              trans-female / Near Chicago, IL
 
 languages  • objective-c, html, scss/css, js
