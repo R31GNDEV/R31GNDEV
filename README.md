@@ -13,11 +13,9 @@ interests  • Mobile/Web Front-End UI Design, Hiking,
              dacing/raves, Reverse Engineering, Content Creator for [redacted]
 
 e-mail     • dev@kota.gay
-website    • kota.gay | transrights.online | alyssais.online
+website    • kota.gay | alyssais.online
 discord    • @alyssabale
-reddit     • u/L3X8
 steam      • Kotaisgay
-mastodon   • kota@tech.lgbt
 ```
 
 ---
