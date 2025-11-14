@@ -2,20 +2,22 @@
 R31GNDEV@github: ~ $ whoami
 ──────────────────────────────────────────────
 
-alias'     • dakota, short nickname - kota, alyssa
+alias'     • dakota, short nickname - kota
+sw alias    • alyssa bale
 
 personal   • 26yo
              trans-female / Near Chicago, IL
 
+employment • adult entertainment actress / entrepreneur / C.E.O. & Owner of Espial / C.E.O. & Owner of Quartz of Crystals
+
 languages  • objective-c, html, scss/css, js
 
-interests  • Mobile/Web Front-End UI Design, Hiking,
-             dacing/raves, Reverse Engineering, Content Creator for [redacted]
+interests  • Mobile/Web Front-End UI Design, E-com, opsec, Hiking,
+             dacing/raves, Reverse Engineering
 
-e-mail     • dev@kota.gay
-website    • kota.gay | alyssais.online
+e-mail     • dakota@espial.net
+websites   • kota.gay | alyssais.online | espial.net
 discord    • @alyssabale
-steam      • Kotaisgay
 ```
 
 ---
