@@ -3,7 +3,7 @@ R31GNDEV@github: ~ $ whoami
 ──────────────────────────────────────────────
 
 alias'     • dakota, short nickname - kota
-sw alias    • alyssa bale
+sw alias   • alyssa bale
 
 personal   • 26yo
              trans-female / Near Chicago, IL
