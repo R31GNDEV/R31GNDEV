@@ -15,7 +15,7 @@ languages  • objective-c, html, scss/css, js
 interests  • Mobile/Web Front-End UI Design, E-com, opsec, Hiking,
              dacing/raves, Reverse Engineering
 
-e-mail     • dakota@espial.net
+e-mails    • dakota@espial.net | alyssabale@xxxbusiness.net | dev@kota.gay
 websites   • kota.gay | alyssais.online | espial.net
 discord    • @alyssabale
 ```
